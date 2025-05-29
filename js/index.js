@@ -19,6 +19,6 @@ fullName += ' Viktor';
 console.log("Повне ім’я:", fullName);
 
 // 4
-et userName = 'Олександр';
+let userName = 'Олександр';
 let payment = 300;
-alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`);
+alert(`Дякуємо, ${userName}o! До сплати ${payment} гривень`);
